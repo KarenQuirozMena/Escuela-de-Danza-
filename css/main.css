@@ -1,0 +1,88 @@
+/*Menú de inicio de página*/
+li{
+	display: inline-block;
+	margin: 2% 7%;
+}
+ul>li>a{
+	text-decoration: none;
+	color: #192951;
+}
+.fondo-dance_1{
+	background-image: url("../img/dance_1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+}
+.boton_inscribete{
+	background-color: #192951;
+	width: 120px;
+	height: 40px;
+	text-align: center;
+	margin-top: 33%;
+}
+.fondo_textura_2{
+	background-image: url("../img/textura_2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 250px;
+}
+.boton_oferta{
+	background-color: #192951;
+	width: 120px;
+	height: 40px;
+	text-align: center;
+}
+.fondo_instructor_4{
+	background-image: url("../img/instructor_4.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	border: 1px solid black;
+	float: left;
+	width: 50%;
+	height: 400px;
+}
+.fondo_profesor_9{
+	background-image: url("../img/profesor_9.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	border: 1px solid black;
+	float: right;
+	width: 50%;
+	height: 400px;
+}
+.etiqueta_instructores{
+	background-color: #192951;
+	width: 120px;
+	height: 40px;
+	text-align: center;
+	z-index: 1;
+	position: absolute;
+	margin-top: 358px;
+	margin-left: 620px;
+}
+.fondo_azul{
+	background-color: #192951;
+	height: 400px;
+	color: white;
+}
+.fondo_shoes_1{
+	background-image: url("../img/shoes_1.jpg");
+	background-size: 55%;
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 550px;
+}
+.tabla_contacto{
+	float: center;
+}
+.fondo_pie{
+	background-color: #192951;
+	height: 55px;
+	color: white;
+}
+.copyright{
+	margin-top: 45px;
+	margin-right: 20px;
+}
